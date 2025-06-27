@@ -1,0 +1,28 @@
+body {
+    background-image: url('background.jpg');
+    background-repeat: no-repeat; 
+    background-size: cover;
+	height: 100vh;
+
+}
+h1 {
+    color: blue;
+}
+table {
+    border-collapse: collapse;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 100%;
+}
+td {
+    border: 2px solid blue;
+    font-size: 1em;
+    width: 33vw;
+} 
+th {
+    border: 2px solid blue;
+    font-size: 1em;
+    width: 33vw;
+} 
